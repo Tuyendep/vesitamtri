@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vesitamtri/static/css/main.e6c13ad2.css",
+    "main.js": "/vesitamtri/static/js/main.742535e9.js",
+    "static/js/453.9d373fe8.chunk.js": "/vesitamtri/static/js/453.9d373fe8.chunk.js",
+    "index.html": "/vesitamtri/index.html",
+    "main.e6c13ad2.css.map": "/vesitamtri/static/css/main.e6c13ad2.css.map",
+    "main.742535e9.js.map": "/vesitamtri/static/js/main.742535e9.js.map",
+    "453.9d373fe8.chunk.js.map": "/vesitamtri/static/js/453.9d373fe8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.742535e9.js"
+  ]
+}
