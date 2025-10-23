@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vesitamtri/static/css/main.e576e437.css",
-    "main.js": "/vesitamtri/static/js/main.e3492cac.js",
+    "main.js": "/vesitamtri/static/js/main.ebd3f31a.js",
     "static/js/453.9d373fe8.chunk.js": "/vesitamtri/static/js/453.9d373fe8.chunk.js",
     "index.html": "/vesitamtri/index.html",
     "main.e576e437.css.map": "/vesitamtri/static/css/main.e576e437.css.map",
-    "main.e3492cac.js.map": "/vesitamtri/static/js/main.e3492cac.js.map",
+    "main.ebd3f31a.js.map": "/vesitamtri/static/js/main.ebd3f31a.js.map",
     "453.9d373fe8.chunk.js.map": "/vesitamtri/static/js/453.9d373fe8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e576e437.css",
-    "static/js/main.e3492cac.js"
+    "static/js/main.ebd3f31a.js"
   ]
 }
